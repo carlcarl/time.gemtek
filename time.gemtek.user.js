@@ -10,7 +10,7 @@
 (function(){
 	var head = document.getElementsByTagName('head')[0];
 	var style = document.createElement('style');
-	var rules = document.createTextNode('#form1{display: none;}');
+	var rules = document.createTextNode('#form1{display: none;} font{color: black;}');
 	style.type = 'text/css';
 
 	if(style.styleSheet) {
@@ -72,7 +72,7 @@
 			
 		}
 		var table = document.getElementsByTagName('table')[0];
-		table.className = "table table-striped";
+		table.className = "table";
 		var trs = document.getElementsByTagName('tr');
 		for(var i = 0; i < trs.length; i++)
 		{
