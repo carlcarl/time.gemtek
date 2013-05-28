@@ -2,6 +2,7 @@
 // @name        time.gemtek by carlcarl
 // @description Beautify this web page
 // @include      htt*://time.gemtek.com.tw/*
+// @include      htt*://time.gemteks.com/*
 // @author      carlcarl
 // ==/UserScript==
 
