@@ -6,5 +6,5 @@ A userscript to beautify time.gemtek page.
 ![Before](http://i.imgur.com/J1Wq3Cr.png)
 
 ## After
-![After](http://i.imgur.com/mjrhOHB.png)
+![After](http://i.imgur.com/YNr8eKw.png)
 
