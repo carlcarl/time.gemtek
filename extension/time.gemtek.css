@@ -1,0 +1,32 @@
+body {
+	padding: 20px;
+}
+
+#form1 {
+	display: none;
+} 
+
+font {
+	color: black;
+}
+
+a:link {
+	color: #0088cc !important;
+}
+
+textarea {
+	width: 50% !important;
+}
+
+td {
+	background: white !important;
+}
+
+input[type=text] {
+	margin: 0 0 0 10px !important;
+}
+
+input[type=submit] {
+	height: 30px !important;
+}
+

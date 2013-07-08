@@ -1,0 +1,19 @@
+{
+	"name": "Gemtek time",
+	"version": "1.0",
+	"manifest_version": 2,
+
+	"description": "Beautify the web page",
+	"developer": {
+		"name": "carlcarl",
+		"url": "http://blog.carlcarl.tw"
+	},
+	"content_scripts": [
+		{
+			"matches": ["http://time.gemtek.com.tw/*", "http://time.gemteks.com/*"],
+			"js": ["jquery.min.js", "bootstrap.min.js", "time.gemtek.user.js"],
+			"css": ["bootstrap-combined.min.css", "time.gemtek.css"]
+		}
+	]
+}
+
